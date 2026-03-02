@@ -9,7 +9,7 @@ The objective was twofold:<br>
 • Evaluate the predictive performance of a Random Forest regression model on 2023 closing prices.<br>
 • Identify hidden structural patterns in historical price dynamics through K-Means clustering.<br>
 
-🔎 Methodology
+🔎 Methodology<br>
 • Historical daily closing prices collected (2019–2023)<br>
 • Feature engineering using lag variables (1–5 days)<br>
 • Optimal cluster selection through the Elbow Method (k = 3)<br>
@@ -18,7 +18,7 @@ The objective was twofold:<br>
 • Model evaluation using RMSE and R²<br>
 • Correlation analysis between AMZN and WMT<br>
 
-📊 Key Results
+📊 Key Results<br>
 • Amazon (AMZN): <br>
   - RMSE = 3.77<br>
   - R² = 0.96<br>
@@ -33,7 +33,7 @@ The objective was twofold:<br>
 • K-Means clustering (k = 3) revealed distinct and well-separated market regimes<br>
 • Confusion matrix confirmed strong separability between clusters<br>
 
-🧠 Conclusion
+🧠 Conclusion<br>
 The project highlights how predictive performance is asset-dependent.
 Random Forest proved highly effective for Amazon, capturing 96% of variance in 2023 prices, while performance on Walmart was significantly weaker, suggesting different underlying market dynamics.
 Clustering and correlation analysis further confirmed structural differences between the two stocks, reinforcing the importance of adapting modeling strategies to the specific characteristics of each asset.
