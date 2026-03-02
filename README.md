@@ -1,6 +1,6 @@
 # Predictive-Analysis-Clustering-of-Amazon-and-Walmart-Stocks
 
-Project Type: Machine Learning & Financial Time Series Analysis
+Project Type: Machine Learning & Financial Time Series Analysis<br>
 Tools Used: Python, yfinance, scikit-learn (Random Forest, K-Means), RMSE, R², Correlation Analysis, Matplotlib
 
 This project analyzes and compares the predictive behavior of two major retail stocks — Amazon (AMZN) and Walmart (WMT) — using machine learning models and clustering techniques.
