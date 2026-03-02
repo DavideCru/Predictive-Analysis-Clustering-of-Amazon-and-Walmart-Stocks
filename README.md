@@ -41,9 +41,9 @@ This project demonstrates financial time-series modeling, supervised regression,
 
 <p align="center">
 <img width="45%" alt="image" src="https://github.com/user-attachments/assets/3231169a-f5b9-4aa6-8ad4-bfb83efd7ba1" />
-<img width="45%" alt="image" src="https://github.com/user-attachments/assets/21f06e50-79cd-4310-8e7f-7012783b2a2b" />
-<img width="45%" alt="image" src="https://github.com/user-attachments/assets/c54adc4c-16dc-478c-8413-3e7a06456c37" />
-<img width="45%" alt="image" src="https://github.com/user-attachments/assets/bebde029-fb47-42c4-b3e3-6f7d8bd4e06c" />
+<img width="42%" alt="image" src="https://github.com/user-attachments/assets/21f06e50-79cd-4310-8e7f-7012783b2a2b" />
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/c54adc4c-16dc-478c-8413-3e7a06456c37" />
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/bebde029-fb47-42c4-b3e3-6f7d8bd4e06c" />
 </p>
  
 
